@@ -1,1 +1,1 @@
-# Data-Science
+# Loan Approval Prediction Model
